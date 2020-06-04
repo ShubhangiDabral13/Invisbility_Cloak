@@ -1,4 +1,4 @@
-# Invisbility_Cloak
+# Invisibility_Cloak
 Invisibility Cloak using python and Opencv 
 
 A Harry Potter fan would already know what is an invisbility cloak is.So with a few line of code you can implement it.
